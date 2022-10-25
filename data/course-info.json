@@ -11,8 +11,8 @@
     },
     {
         "id": "3",
-        "title": "Basic Bootstrap learning",
-        "details": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs. Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter, and released as an open source product in August 2011 on GitHub."
+        "title": "Basic Tailwind learning",
+        "details": "Tailwind CSS is a low-level framework. Meaning, unlike other CSS frameworks like Bootstrap and Materialize, Tailwind doesn’t offer fully styled components like buttons, dropdowns, and navbars. Instead, it offers utility classes so you can create your own reusable components. For that reason, it provides a lot more flexibility and control over what your application looks like than other CSS frameworks. This can enable you to create a more unique site."
     },
     {
         "id": "4",
