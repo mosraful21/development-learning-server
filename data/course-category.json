@@ -1,31 +1,31 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "HTML",
         "logo": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "CSS",
         "logo": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Tailwind",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "JavaScript",
         "logo": "https://cdn.pixabay.com/photo/2017/03/30/17/41/javascript-2189147_960_720.png"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "React",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Firebase",
         "logo": "https://w7.pngwing.com/pngs/359/1024/png-transparent-firebase-cloud-messaging-computer-icons-google-cloud-messaging-android-angle-triangle-computer-programming.png"
     }
