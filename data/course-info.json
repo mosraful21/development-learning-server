@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "title": "Basic HTML learning",
+        "details": "HTML stands for HyperText Markup Language. It is the language used to display documents and various creations in a standard browser. It’s used by businesses worldwide to power mobile apps, software, and websites — almost 92.8% of all websites.Learning HTML will open up countless opportunities for you and your business. You’ll be able to code websites and adjust scripts by understanding basic HTML."
+    },
+    {
+        "id": "2",
+        "title": "Basic CSS learning",
+        "details": "CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts. It allows one to adapt the presentation to different types of devices, such as large screens, small screens, or printers. CSS is independent of HTML and can be used with any XML-based markup language. The separation of HTML from CSS makes it easier to maintain sites, share style sheets across pages, and tailor pages to different environments. This is referred to as the separation of structure (or: content) from presentation."
+    },
+    {
+        "id": "3",
+        "title": "Basic Bootstrap learning",
+        "details": "Bootstrap is a free front-end framework for faster and easier web development. Bootstrap includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many other, as well as optional JavaScript plugins. Bootstrap also gives you the ability to easily create responsive designs. Bootstrap was developed by Mark Otto and Jacob Thornton at Twitter, and released as an open source product in August 2011 on GitHub."
+    },
+    {
+        "id": "4",
+        "title": "Basic JavaScript learning",
+        "details": "JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+    },
+    {
+        "id": "5",
+        "title": "Basic React learning",
+        "details": "React is an efficient and flexible JavaScript library for building user interfaces (and React itself is written using JavaScript). It breaks down complex UIs into small, isolated code called “components”. By using these components, React only concerns itself with what you see on the front page of a website.Developed by Facebook in 2011, React has quickly become one of the most widely used JavaScript libraries. According to HackerRank, 30% of employers look for developers who know React but only about half of the applicants actually have the required knowledge. Clearly, React is in high demand in the job market."
+    },
+    {
+        "id": "6",
+        "title": "Basic Firebase learning",
+        "details": "Firebase evolved from Envolve, a prior startup founded by James Tamplin and Andrew Lee in 2011. Envolve provided developers an API that enables the integration of online chat functionality into their websites. After releasing the chat service, Tamplin and Lee found that it was being used to pass application data that were not chat messages. Developers were using Envolve to sync application data such as game state in real time across their users. Tamplin and Lee decided to separate the chat system and the real-time architecture that powered it.[1] They founded Firebase as a separate company in 2011 and it launched to the public in April 2012."
+    }
+]
